@@ -3,7 +3,7 @@
     "appName": "E视界",
     "webDir": "public",
     "server": {
-        "url": "https://ednovas.video",
+        "url": "http://zengmin.top:3600",
         "cleartext": true
     },
     "plugins": {
